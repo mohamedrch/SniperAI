@@ -226,7 +226,7 @@ export default function Home() {
               {/* Main Headline */}
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight">
                 <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-                  Find Your Next Winning Product
+                  Find Your BEEEEEEEEEEEEEEEB
                 </span>
                 <br />
                 <span className="text-gray-900">Powered by AI, Trusted by 5,000+ Sellers</span>
